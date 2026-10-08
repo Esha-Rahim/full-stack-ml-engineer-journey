@@ -1,7 +1,7 @@
-# Day 3 — Vectors and Feature Rows
+# Day 3 — Vectors and Feature
 
 ## Date
-October 10, 2026
+October 8, 2026
 
 
 # Topics Covered
