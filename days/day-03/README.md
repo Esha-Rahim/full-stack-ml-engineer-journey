@@ -1,4 +1,4 @@
-# Day 3 — Vectors and Feature
+# Day 3 — Vectors and Feature Rows
 
 ## Date
 October 8, 2026
