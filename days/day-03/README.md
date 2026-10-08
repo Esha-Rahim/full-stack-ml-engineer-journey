@@ -3,10 +3,6 @@
 ## Date
 October 8, 2026
 
-## Time
-3 hours 15 minutes
-
----
 
 # Topics Covered
 
@@ -93,91 +89,4 @@ Before building or training a model, an ML Engineer needs to understand how raw 
 
 ---
 
-# Implementation
 
-## What I Implemented
-
-[Write what you actually implemented during today's 35-minute practice.]
-
-## Tools Used
-
-- Python
-- NumPy
-
-## Assumption
-
-[Write the assumption you made during the implementation.]
-
-## Metric / Result
-
-[Write the result or metric you observed.]
-
-## Limitation
-
-[Write one limitation of your implementation or experiment.]
-
-## Debugging Observation
-
-[Write one thing you discovered while implementing or debugging.]
-
----
-
-# Reflection
-
-Today I learned how individual observations can be represented as feature vectors and how multiple feature rows form a larger numerical dataset.
-
-### Key Takeaways
-
-- [Your own takeaway]
-- [Your own takeaway]
-- [Your own takeaway]
-
-### Most Difficult Concept
-
-[Write the concept that was hardest for you.]
-
-### What I Need to Improve
-
-[Write what you still need to practice.]
-
----
-
-# Self-Check
-
-### Can I explain what a vector is without notes?
-
-Yes / No
-
-### Can I explain what a feature vector is?
-
-Yes / No
-
-### Can I explain what a feature row represents?
-
-Yes / No
-
-### Can I explain why features correspond to dimensions?
-
-Yes / No
-
-### Can I distinguish rows from columns in an ML dataset?
-
-Yes / No
-
-### Can I explain how multiple feature rows form a matrix?
-
-Yes / No
-
-### One "Why?" question I can answer
-
-**Question:** Why are feature vectors important in machine learning?
-
-**Answer:** [Write your answer from memory.]
-
-### One failure mode or trade-off
-
-[Write your answer.]
-
-### What I still cannot explain clearly
-
-[Write your answer.]
