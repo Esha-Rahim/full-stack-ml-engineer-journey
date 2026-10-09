@@ -1,4 +1,4 @@
-# Day 4 — Matrices and Dataset Shape
+# Day 4 — Matrices and Dataset SIZE
 
 ## Date
 October 9, 2026
